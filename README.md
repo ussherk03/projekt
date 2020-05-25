@@ -1,2 +1,2 @@
-# projekt.gitgub.io
+# projekt
 Projekt (React App)
